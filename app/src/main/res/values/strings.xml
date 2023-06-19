@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="boton_ingresar">Entrar</string>
+    <string name="button_registrarse">registrarse</string>
+    <string name="Radiobutton_Hombre">Hombre</string>
+    <string name="Radiobutton_Mujer">Mujer</string>
+</resources>
